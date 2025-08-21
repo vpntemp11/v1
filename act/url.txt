@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/jp.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/jp.txt
