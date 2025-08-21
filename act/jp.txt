@@ -1,3 +1,10 @@
+156.238.19.8:443#JP
+www.4chan.org
+www.okcupid.com
+www.glassdoor.com
+www.iakeys.com
+www.sean-now.com
+whatismyipaddress.com
 193.123.81.105:443#AE
 217.60.39.80:443#AE
 31.57.63.224:443#AE
