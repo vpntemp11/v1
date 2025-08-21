@@ -1,3 +1,2 @@
-https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/us.txt
 https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/jp.txt
 https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/ipfd.txt
