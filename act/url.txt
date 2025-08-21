@@ -1,5 +1,1 @@
-https://raw.githubusercontent.com/boytemp1/20250805act/refs/heads/main/ipv4.txt
-https://raw.githubusercontent.com/boytemp1/20250805act/refs/heads/main/ipHK.txt
-https://raw.githubusercontent.com/boytemp1/20250805act/refs/heads/main/ipJP.txt
-https://raw.githubusercontent.com/boytemp1/20250805act/refs/heads/main/ipUS.txt
-https://raw.githubusercontent.com/boytemp1/20250805act/refs/heads/main/ipv4.csv
+https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/us.txt
