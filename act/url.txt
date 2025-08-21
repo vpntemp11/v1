@@ -1,2 +1,2 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/us.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/jp.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/vpntemp11/v1/refs/heads/main/act/jp.txt@141.147.163.68
